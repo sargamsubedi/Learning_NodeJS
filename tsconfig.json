@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    // Project structure
+    "rootDir": "./src",
+    "outDir": "./dist",
+
+    // Node.js + TypeScript
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "target": "ES2022",
+    "types": ["node"],
+
+    // Generate useful output
+    "sourceMap": true,
+
+    // Strict type checking
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+
+    // Module behavior
+    "verbatimModuleSyntax": true,
+    "isolatedModules": true,
+    "moduleDetection": "force",
+
+    // Skip checking declaration files from dependencies
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules", "dist"]
+}
