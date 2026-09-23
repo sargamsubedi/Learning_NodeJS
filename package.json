@@ -11,7 +11,8 @@
     "04": "tsx src/path_module.ts",
     "05": "tsx src/timers_module.ts",
     "06": "tsx src/fs_module.ts",
-    "07": "tsx src/buffers.ts"
+    "07": "tsx src/buffers.ts",
+    "08": "tsx src/url_module.ts"
   },
   "keywords": [],
   "author": "",
