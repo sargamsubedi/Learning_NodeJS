@@ -9,7 +9,8 @@
     "02": "tsx src/crypto_module.ts",
     "03": "tsx src/os_module.ts",
     "04": "tsx src/path_module.ts",
-    "05": "tsx src/timers_module.ts"
+    "05": "tsx src/timers_module.ts",
+    "06": "tsx src/fs_module.ts"
   },
   "keywords": [],
   "author": "",
