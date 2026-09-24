@@ -16,7 +16,8 @@
     "09": "tsx src/event_emitter.ts",
     "10": "tsx src/streams.ts",
     
-    "11":"tsx src/http_basics/basic_http_server.ts"
+    "11":"tsx src/http_basics/basic_http_server.ts",
+    "12":"tsx src/http_basics/routing.ts"
   },
   "keywords": [],
   "author": "",
