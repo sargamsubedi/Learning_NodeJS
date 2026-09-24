@@ -12,7 +12,8 @@
     "05": "tsx src/timers_module.ts",
     "06": "tsx src/fs_module.ts",
     "07": "tsx src/buffers.ts",
-    "08": "tsx src/url_module.ts"
+    "08": "tsx src/url_module.ts",
+    "09": "tsx src/event_emitter.ts"
   },
   "keywords": [],
   "author": "",
