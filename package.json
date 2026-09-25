@@ -19,7 +19,8 @@
     "11":"tsx src/http_basics/basic_http_server.ts",
     "12":"tsx src/http_basics/routing.ts",
     "13":"tsx src/http_basics/reading_body.ts",
-    "14":"tsx src/http_basics/json_response.ts"
+    "14":"tsx src/http_basics/json_response.ts",
+    "15":"tsx src/http_basics/external_api_calls.ts"
   },
   "keywords": [],
   "author": "",
