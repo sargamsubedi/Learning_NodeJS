@@ -17,7 +17,8 @@
     "10": "tsx src/streams.ts",
     
     "11":"tsx src/http_basics/basic_http_server.ts",
-    "12":"tsx src/http_basics/routing.ts"
+    "12":"tsx src/http_basics/routing.ts",
+    "13":"tsx src/http_basics/reading_body.ts"
   },
   "keywords": [],
   "author": "",
